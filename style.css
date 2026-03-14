@@ -1,12 +1,16 @@
-
 #title{
   font-size: 40px;
 }
-h1{
-  color: tomato;
-  font-size: 40px;
+body{
+  font-family:Tahoma;
+  /* background: black; */
 }
-
+h1{
+  font-size: 40px;
+  color: white;
+  font-size: 40px;
+  letter-spacing: 2px;
+}
 button{
   width: 130px;
   padding: 10px 12px;
@@ -16,7 +20,14 @@ button{
   color: white;
   font-size: 20px;
 }
-
-button:hover{
-  background:black;
+html{
+  scroll-behavior: smooth;
+}
+img{
+  height: 500px;
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 50px;
 }
