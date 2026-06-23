@@ -31,7 +31,6 @@ console.log(Number);
 let c = "1M";
 console.log(c);
 
-
 // Assignment Operator
 
 let man = 100;

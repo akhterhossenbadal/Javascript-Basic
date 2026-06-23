@@ -10,7 +10,7 @@
 let badalUser = {
   Name: "Elon Musk",
   Founder: "Tesla",
-  CGPA: 2.90,
+  CGPA: 3.00,
   Followers: true,
   Religion: "Jesus",
   Founder:"Space-X",
@@ -29,7 +29,7 @@ console.log(Weightu);
 // We can't use var
 
 var nickName = {
-  Founder: "Code with Badal",
+  Founder: "Akhter Hossen Badal",
   Name: "Badal",
   Weight: 60,
 }
@@ -110,4 +110,8 @@ console.log(xo);
 
 var nameB = {
   Name: "Akhter Hossen Badal",
+  founder: "AHBWEB",
 }
+console.log(nameB);
+
+// alert("Akhter Hossen Badal");

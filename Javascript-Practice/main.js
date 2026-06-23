@@ -1,5 +1,5 @@
 //  Complete Javascript Practice of Apna College
-// alert("Akhter Hossen Badal is a Full Stack Web Developer🚀");
+// alert("Akhter Hossen Badal is a Full Stack Web Developer");
 
 myName = "Akhter Hossen Badal";
 console.log(myName);

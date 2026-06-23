@@ -3,7 +3,7 @@
 }
 body{
   font-family:Tahoma;
-  /* background: black; */
+  background:rgb(64, 64, 177);
 }
 h1{
   font-size: 40px;
@@ -14,12 +14,13 @@ h1{
 button{
   width: 130px;
   padding: 10px 12px;
-  background:tomato;
+  background:slateblue;
   border-radius: 5px;
   border: none;
   color: white;
   font-size: 20px;
 }
+
 html{
   scroll-behavior: smooth;
 }
